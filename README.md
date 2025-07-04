@@ -1,11 +1,11 @@
-## 👋 Hi, I'm Dohun!
+## 👋 Hi, I'm [Dohun Lee]!
 
 **Mechanical Engineering Undergrad | AI Learner | Future ML Engineer**
 
-- 🎓 Major: Mechanical Engineering, [학교 이름], 3rd year
+- 🎓 Major: Mechanical Engineering, [Ajou University], 3rd year
 - 🧠 Interested in: AI for Smart Factory, Predictive Maintenance, Robotics
 - 🚀 Ongoing: LG Aimers 7기, Kaggle beginner projects
-- 📫 Reach me: [이메일] | [LinkedIn] | [Blog if any]
+- 📫 Reach me: [dohun12345@gmail.com] 
 
 ---
 
